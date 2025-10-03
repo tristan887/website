@@ -16,7 +16,7 @@ export default function Home() {
       <p className='mt-4 ${montserrat.className}`}'>
         Welcome to my finance and economics projects.</p>
       <p className="mt-6">Hi! My name is Diana and I am a senior at the University of Central Florida.
-        I will be graduating with my Bachelor's in Economics and Minor in Middle Easter Studies.
+        I will be graduating with my Bachelor&apos;s in Economics and Minor in Middle Easter Studies.
       </p>
 
       {/* Option 2: Multiple buttons */}
