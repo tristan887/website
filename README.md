@@ -4,11 +4,11 @@ A personal portfolio website that encapsulates my personal projects and other wo
 
 ## Tech Stack 
 - [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`]
-- [Tailwind] [CSS] for styling 
+- [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
 
 ## Getting Started
 
-First, run the development server:
+1. Run the development server:
 
 ```bash
 npm run dev
@@ -20,13 +20,7 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-
+2. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result. You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
 ## Deployment
 
@@ -34,11 +28,9 @@ I used [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filt
 
 ## Learn More
 
-Resources:
-
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-- [TailwindCSS] https://github.com/tailwindlabs/tailwindcss
+- [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) - for styling
 
 ## Contact
 - Github: [@tristan887](https://github.com/tristan887)
