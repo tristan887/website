@@ -1,0 +1,17 @@
+.socialContainer {
+    display: flex; 
+    justify-content: center; 
+    padding: 20px;
+}
+.iconLink {
+    color: #df4d1c;
+    margin: 0 10px;
+    font-size: 2em;
+    display: inline-block;
+    transition: transform 0.3s ease-out, color 0.3s;
+}
+
+.iconLink:hover {
+    transform: translate(0, -10%);
+    color: #0077b5; 
+}
