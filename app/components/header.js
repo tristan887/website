@@ -10,16 +10,16 @@ export default function Header() {
       
       {/* Navigation */}
       <nav className="flex gap-8">
-        <Link href="/" className="hover:text-gray-600">
+        <Link href="/" className="hover:text-[#de5003]">
           home
         </Link>
-        <Link href="/projects" className="hover:text-gray-600">
+        <Link href="/about" className="hover:text-[#de5003]">
           about
         </Link>
-        <Link href="/about" className="hover:text-gray-600">
+        <Link href="/projects" className="hover:text-[#de5003]">
           projects
         </Link>
-        <Link href="/contact" className="hover:text-gray-600">
+        <Link href="/contact" className="hover:text-[#de5003]">
           contact
         </Link>
       </nav>
